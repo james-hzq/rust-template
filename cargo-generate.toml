@@ -1,0 +1,2 @@
+[template]
+exclude = ["cliff.toml", "Cargo.lock", ".github/workflows/build.yml"]
